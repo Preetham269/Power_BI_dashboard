@@ -41,3 +41,11 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 * 🎚️ Optimized Slicers & Advanced Cross-Filtering Techniques
 * ✨ Report Performance Considerations
 
+
+[➡️ **View Full Project 2 Details (README)**](/Data_jobs_v2/READme.md)
+
+---
+
+## About This Portfolio
+
+Each dashboard linked above has its own detailed `README.md` file within its respective project folder. These offer deeper insights into the project objectives, data sources, specific Power BI techniques employed, and a closer look at the dashboard build.
